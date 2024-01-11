@@ -239,8 +239,24 @@
 
 /*Hero Section*/
 
+
 .hero-image{
     background-image: url(hero.jpg);
     background-size: cover;
-    height: 600px;
+    height: 330px;
+}
+
+.main-hero-page{
+    max-width: 1480px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.hero-box-1{
+    height: 385px;
+    width: 350px;
+    background-color: #fff;
+    position: relative;
+    margin: 10px;
 }
