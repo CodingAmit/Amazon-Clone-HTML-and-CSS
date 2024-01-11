@@ -5,6 +5,10 @@
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #e3e6e6;
+}
 .nav-main{
     height: 60px;
     background-color: #131921;
@@ -243,17 +247,17 @@
 .hero-image{
     background-image: url(hero.jpg);
     background-size: cover;
-    height: 330px;
+    height: 300px;
 }
 
-.main-hero-page{
+.hero-page-box{
     max-width: 1480px;
     height: 400px;
     margin: 0 auto;
     display: flex;
 }
 
-.hero-box-1{
+.hero-box{
     height: 385px;
     width: 350px;
     background-color: #fff;
