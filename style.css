@@ -255,16 +255,67 @@ body{
     height: 400px;
     margin: 0 auto;
     display: flex;
+    margin-bottom: 10px;
 }
 
 .hero-box{
     height: 385px;
     width: 350px;
     background-color: #fff;
-    position: relative;
+    padding-top: 20px;
+    padding-bottom: 15px;
     margin: 10px;
-    margin-top: 0;
 }
+
+.hero-box-1-product{
+    display: flex;
+}
+
+.first-product-section{
+    display: grid;
+}
+
+/*Product Box Heading*/
+
+.box-product-heading{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0 20px;
+    margin-bottom: 10px;
+}
+
+/*Product Box Sizes*/
+
+
+/*Product Box links*/
+
+.box-product-link{
+    padding: 0 20px;
+    margin-bottom: 20px;
+}
+
+.box-product-link a{
+    text-decoration: none;
+    color: #007185;
+}
+
+/*Product box First container*/
+
+.hero-box-1-product{
+    display: flex;
+}
+
+.first-product-section{
+
+}
+
+.first-product-section img{
+    height: 100px;
+    width: 155px;
+    
+}
+
+
 
 /*Second Hero Product Start*/
 
