@@ -263,4 +263,31 @@ body{
     background-color: #fff;
     position: relative;
     margin: 10px;
+    margin-top: 0;
+}
+
+/*Second Hero Product Start*/
+
+.second-hero-product-box-one{
+    height: 345px;
+    background-color: #fff;
+    margin: 0 30px;
+}
+
+.hero-big-box{
+    height: 280px;
+    background-color: #fff;
+    margin: 0 30px;
+}
+
+.footer-singin{
+    height: 185px;
+    background-color: #fff;
+}
+
+/*Footer Links*/
+
+.footer-links{
+    height: 1010px;
+    background-color: #232F3E;
 }
